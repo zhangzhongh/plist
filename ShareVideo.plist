@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bailingdianzi.wovideo.fixios8</string>
+				<string>com.bailingdianzi.wovideo</string>
 				<key>bundle-version</key>
 				<string>1.8</string>
 				<key>kind</key>
