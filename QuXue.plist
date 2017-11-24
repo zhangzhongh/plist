@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.3ghn.com.cn/upload/download/ShareVideo.ipa</string>
+					<string>http://dev.vshijian.com/uploads/apps/ios/201711/1.0.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bailingdianzi.wovideo</string>
+				<string>com.quxue.VShiJian</string>
 				<key>bundle-version</key>
-				<string>1.8</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>我视界</string>
+				<string>趣学</string>
 			</dict>
 		</dict>
 	</array>
